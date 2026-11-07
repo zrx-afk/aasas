@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["minecraft:diamond_sword", "minecraft:feather", "minecraft:feather", "minecraft:feather", "minecraft:feather"],
+  "result": { "id": "actionpack:dash_blade", "count": 1 }
+}

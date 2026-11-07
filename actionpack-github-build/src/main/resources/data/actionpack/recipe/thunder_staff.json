@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["  L", " B ", "B  "],
+  "key": { "L": "minecraft:lightning_rod", "B": "minecraft:blaze_rod" },
+  "result": { "id": "actionpack:thunder_staff", "count": 1 }
+}
